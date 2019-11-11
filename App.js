@@ -6,7 +6,7 @@ export default class App extends Component{
   render(){
     return(
         <View>
-          <Text> Hello everyone welcome to our online course application</Text>
+          <Text> Hello everyone welcome to our online course application..</Text>
         </View>
     )
   }
